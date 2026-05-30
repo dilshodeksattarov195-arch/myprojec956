@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvrocess",
+        "uuid": 3832604,
+        "checksum": "trthfc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
